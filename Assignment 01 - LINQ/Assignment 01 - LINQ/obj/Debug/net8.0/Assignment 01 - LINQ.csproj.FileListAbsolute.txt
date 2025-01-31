@@ -1,0 +1,4 @@
+F:\Assignment 01 - LINQ\Assignment 01 - LINQ\obj\Debug\net8.0\Assignment 01 - LINQ.GeneratedMSBuildEditorConfig.editorconfig
+F:\Assignment 01 - LINQ\Assignment 01 - LINQ\obj\Debug\net8.0\Assignment 01 - LINQ.AssemblyInfoInputs.cache
+F:\Assignment 01 - LINQ\Assignment 01 - LINQ\obj\Debug\net8.0\Assignment 01 - LINQ.AssemblyInfo.cs
+F:\Assignment 01 - LINQ\Assignment 01 - LINQ\obj\Debug\net8.0\Assignment 01 - LINQ.csproj.CoreCompileInputs.cache
